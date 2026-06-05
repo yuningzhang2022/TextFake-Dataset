@@ -17,8 +17,7 @@ TextFake is a large-scale multilingual benchmark of **20,000 text-rich images** 
 | Language families | 12 |
 | Scene types | 2 (screen, paper) |
 | Topic categories | 4 |
-| Full dataset size | ~22 GB |
-| This preview | 280 images (~514 MB) |
+| This preview | 280 images |
 
 ### What makes it unique
 
@@ -100,34 +99,34 @@ Each filename follows the format `LANG_label_NNN.jpg` (e.g., `EN_real_001.jpg`, 
 
 | Language | Real | Fake |
 |---|---|---|
-| Amharic (AM) | ![](data-preview/real/AM_real_001.jpg) | ![](data-preview/fake/AM_fake_001.jpg) |
-| Arabic (AR) | ![](data-preview/real/AR_real_001.jpg) | ![](data-preview/fake/AR_fake_001.jpg) |
-| Bengali (BN) | ![](data-preview/real/BN_real_001.jpg) | ![](data-preview/fake/BN_fake_001.jpg) |
-| German (DE) | ![](data-preview/real/DE_real_001.jpg) | ![](data-preview/fake/DE_fake_001.jpg) |
-| English (EN) | ![](data-preview/real/EN_real_001.jpg) | ![](data-preview/fake/EN_fake_001.jpg) |
-| Spanish (ES) | ![](data-preview/real/ES_real_001.jpg) | ![](data-preview/fake/ES_fake_001.jpg) |
-| Persian (FA) | ![](data-preview/real/FA_real_001.jpg) | ![](data-preview/fake/FA_fake_001.jpg) |
-| French (FR) | ![](data-preview/real/FR_real_001.jpg) | ![](data-preview/fake/FR_fake_001.jpg) |
-| Hebrew (HE) | ![](data-preview/real/HE_real_001.jpg) | ![](data-preview/fake/HE_fake_001.jpg) |
-| Hindi (HI) | ![](data-preview/real/HI_real_001.jpg) | ![](data-preview/fake/HI_fake_001.jpg) |
-| Indonesian (ID) | ![](data-preview/real/ID_real_001.jpg) | ![](data-preview/fake/ID_fake_001.jpg) |
-| Italian (IT) | ![](data-preview/real/IT_real_001.jpg) | ![](data-preview/fake/IT_fake_001.jpg) |
-| Japanese (JA) | ![](data-preview/real/JA_real_001.jpg) | ![](data-preview/fake/JA_fake_001.jpg) |
-| Korean (KO) | ![](data-preview/real/KO_real_001.jpg) | ![](data-preview/fake/KO_fake_001.jpg) |
-| Marathi (MR) | ![](data-preview/real/MR_real_001.jpg) | ![](data-preview/fake/MR_fake_001.jpg) |
-| Burmese (MY) | ![](data-preview/real/MY_real_001.jpg) | ![](data-preview/fake/MY_fake_001.jpg) |
-| Dutch (NL) | ![](data-preview/real/NL_real_001.jpg) | ![](data-preview/fake/NL_fake_001.jpg) |
-| Polish (PL) | ![](data-preview/real/PL_real_001.jpg) | ![](data-preview/fake/PL_fake_001.jpg) |
-| Portuguese (PT) | ![](data-preview/real/PT_real_001.jpg) | ![](data-preview/fake/PT_fake_001.jpg) |
-| Russian (RU) | ![](data-preview/real/RU_real_001.jpg) | ![](data-preview/fake/RU_fake_001.jpg) |
-| Swahili (SW) | ![](data-preview/real/SW_real_001.jpg) | ![](data-preview/fake/SW_fake_001.jpg) |
-| Thai (TH) | ![](data-preview/real/TH_real_001.jpg) | ![](data-preview/fake/TH_fake_001.jpg) |
-| Tagalog (TL) | ![](data-preview/real/TL_real_001.jpg) | ![](data-preview/fake/TL_fake_001.jpg) |
-| Turkish (TR) | ![](data-preview/real/TR_real_001.jpg) | ![](data-preview/fake/TR_fake_001.jpg) |
-| Ukrainian (UK) | ![](data-preview/real/UK_real_001.jpg) | ![](data-preview/fake/UK_fake_001.jpg) |
-| Urdu (UR) | ![](data-preview/real/UR_real_001.jpg) | ![](data-preview/fake/UR_fake_001.jpg) |
-| Vietnamese (VI) | ![](data-preview/real/VI_real_001.jpg) | ![](data-preview/fake/VI_fake_001.jpg) |
-| Chinese (ZH) | ![](data-preview/real/ZH_real_001.jpg) | ![](data-preview/fake/ZH_fake_001.jpg) |
+| Amharic (AM) | <img src="data-preview/real/AM_real_001.jpg" width="300"> | <img src="data-preview/fake/AM_fake_001.jpg" width="300"> |
+| Arabic (AR) | <img src="data-preview/real/AR_real_001.jpg" width="300"> | <img src="data-preview/fake/AR_fake_001.jpg" width="300"> |
+| Bengali (BN) | <img src="data-preview/real/BN_real_001.jpg" width="300"> | <img src="data-preview/fake/BN_fake_001.jpg" width="300"> |
+| German (DE) | <img src="data-preview/real/DE_real_001.jpg" width="300"> | <img src="data-preview/fake/DE_fake_001.jpg" width="300"> |
+| English (EN) | <img src="data-preview/real/EN_real_001.jpg" width="300"> | <img src="data-preview/fake/EN_fake_001.jpg" width="300"> |
+| Spanish (ES) | <img src="data-preview/real/ES_real_001.jpg" width="300"> | <img src="data-preview/fake/ES_fake_001.jpg" width="300"> |
+| Persian (FA) | <img src="data-preview/real/FA_real_001.jpg" width="300"> | <img src="data-preview/fake/FA_fake_001.jpg" width="300"> |
+| French (FR) | <img src="data-preview/real/FR_real_001.jpg" width="300"> | <img src="data-preview/fake/FR_fake_001.jpg" width="300"> |
+| Hebrew (HE) | <img src="data-preview/real/HE_real_001.jpg" width="300"> | <img src="data-preview/fake/HE_fake_001.jpg" width="300"> |
+| Hindi (HI) | <img src="data-preview/real/HI_real_001.jpg" width="300"> | <img src="data-preview/fake/HI_fake_001.jpg" width="300"> |
+| Indonesian (ID) | <img src="data-preview/real/ID_real_001.jpg" width="300"> | <img src="data-preview/fake/ID_fake_001.jpg" width="300"> |
+| Italian (IT) | <img src="data-preview/real/IT_real_001.jpg" width="300"> | <img src="data-preview/fake/IT_fake_001.jpg" width="300"> |
+| Japanese (JA) | <img src="data-preview/real/JA_real_001.jpg" width="300"> | <img src="data-preview/fake/JA_fake_001.jpg" width="300"> |
+| Korean (KO) | <img src="data-preview/real/KO_real_001.jpg" width="300"> | <img src="data-preview/fake/KO_fake_001.jpg" width="300"> |
+| Marathi (MR) | <img src="data-preview/real/MR_real_001.jpg" width="300"> | <img src="data-preview/fake/MR_fake_001.jpg" width="300"> |
+| Burmese (MY) | <img src="data-preview/real/MY_real_001.jpg" width="300"> | <img src="data-preview/fake/MY_fake_001.jpg" width="300"> |
+| Dutch (NL) | <img src="data-preview/real/NL_real_001.jpg" width="300"> | <img src="data-preview/fake/NL_fake_001.jpg" width="300"> |
+| Polish (PL) | <img src="data-preview/real/PL_real_001.jpg" width="300"> | <img src="data-preview/fake/PL_fake_001.jpg" width="300"> |
+| Portuguese (PT) | <img src="data-preview/real/PT_real_001.jpg" width="300"> | <img src="data-preview/fake/PT_fake_001.jpg" width="300"> |
+| Russian (RU) | <img src="data-preview/real/RU_real_001.jpg" width="300"> | <img src="data-preview/fake/RU_fake_001.jpg" width="300"> |
+| Swahili (SW) | <img src="data-preview/real/SW_real_001.jpg" width="300"> | <img src="data-preview/fake/SW_fake_001.jpg" width="300"> |
+| Thai (TH) | <img src="data-preview/real/TH_real_001.jpg" width="300"> | <img src="data-preview/fake/TH_fake_001.jpg" width="300"> |
+| Tagalog (TL) | <img src="data-preview/real/TL_real_001.jpg" width="300"> | <img src="data-preview/fake/TL_fake_001.jpg" width="300"> |
+| Turkish (TR) | <img src="data-preview/real/TR_real_001.jpg" width="300"> | <img src="data-preview/fake/TR_fake_001.jpg" width="300"> |
+| Ukrainian (UK) | <img src="data-preview/real/UK_real_001.jpg" width="300"> | <img src="data-preview/fake/UK_fake_001.jpg" width="300"> |
+| Urdu (UR) | <img src="data-preview/real/UR_real_001.jpg" width="300"> | <img src="data-preview/fake/UR_fake_001.jpg" width="300"> |
+| Vietnamese (VI) | <img src="data-preview/real/VI_real_001.jpg" width="300"> | <img src="data-preview/fake/VI_fake_001.jpg" width="300"> |
+| Chinese (ZH) | <img src="data-preview/real/ZH_real_001.jpg" width="300"> | <img src="data-preview/fake/ZH_fake_001.jpg" width="300"> |
 
 ---
 
@@ -149,5 +148,5 @@ Each filename follows the format `LANG_label_NNN.jpg` (e.g., `EN_real_001.jpg`, 
 
 ## Data Access
 
-The full 20,000-image dataset (~22 GB) will be released upon paper acceptance. For review, the 280-image sample above covers all 28 languages.
+The full 20,000-image dataset will be released upon paper acceptance. For review, the 280-image sample above covers all 28 languages.
 
