@@ -4,7 +4,7 @@ TextFake is a large-scale multilingual benchmark of **20,000 text-rich images** 
 
 > **Data Preview:** This repository contains a curated sample of **280 images** (5 real + 5 fake per language) for review purposes. The complete 20,000-image dataset will be made publicly available upon paper acceptance.
 
-> **News:** Our dataset is now available on [Hugging Face](https://huggingface.co/datasets/Yuning0123/TextFake).
+> **News:** Our complete dataset is now available on [Hugging Face](https://huggingface.co/datasets/Yuning0123/TextFake).
 
 ---
 
